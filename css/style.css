@@ -175,147 +175,59 @@ a:hover {
 .contenedor-lucho1 {  
     
     margin: 5rem 5rem 0 5rem;
-    height: 200vh;
+    height: 220vh;
 }
 
 @media (min-width: 360px) {
-    .contenedor-lucho1 {
-       height: 350vh;
-    }
-}
-
-@media (min-width: 370px) {
-    .contenedor-lucho1 {
-        height: 320vh;
-    }
-     
-}
-
-@media (min-width: 390px) {
-    .contenedor-lucho1 {
-        height: 330vh;
-    } 
-}
-
-@media (min-width: 400px) {
      .contenedor-lucho1 {
-         height: 300vh;
+         height: 225vh;
      }
 }
 
-@media (min-width: 430px ) {
-     .contenedor-lucho1 {
-         height: 280vh;
-     }
-}
-
-@media (min-width: 458px) {
-     .contenedor-lucho1 {
-         height: 270vh;
-     }
-}
-
-@media (min-width: 465px) {
-     .contenedor-lucho1 {
-         height: 268vh;
-     }
-}
-
-@media (min-width: 476px) {
+@media (min-width: 375px) {
      .contenedor-lucho1 {
          height: 260vh;
      }
 }
 
-
-@media (min-width: 504px) {
-     .contenedor-lucho1 {
-         height: 255vh;
-     }
-}
-
-@media (min-width: 530px) {
-     .contenedor-lucho1 {
-         height: 245vh;
-     }
-}
-
-@media (min-width: 537px) {
-    .contenedor-lucho1 {
-        height: 240vh;
-    }
-     
-}
-
-@media (min-width: 590px) {
-     .contenedor-lucho1 {
-         height: 230vh;
-     }
-}
-
-
-@media (min-width: 670px ) {
-     .contenedor-lucho1 {
-         height: 220vh;
-     }
-}
-
-@media (min-width: 678px) {
-     .contenedor-lucho1 {
-         height: 210vh;
-     }
-}
-
-@media (min-width: 700px) {
+@media (min-width: 393px) {
      .contenedor-lucho1 {
          height: 200vh;
      }
 }
 
-@media (min-width: 948px) {
+@media (min-width: 470px) {
      .contenedor-lucho1 {
-         height: 190vh;
+         height: 180vh;
      }
 }
 
-@media (min-width: 1012px) {
+@media (min-width: 500px) {
      .contenedor-lucho1 {
-         height: 200vh;
+         height: 180vh;
+     } 
+}
+
+@media (min-width: 533px) {
+     .contenedor-lucho1 {
+         height: 160vh;
      }
 }
 
-
-@media (min-width: 1100px) {
-     .contenedor-lucho1 {
-         height: 175vh;
-     }
-}
-
-@media (min-width: 1200px) {
-     .contenedor-lucho1 {
-         height: 165vh;
-     }
-}
-
-
-@media (min-width: 1250px) {
+@media (min-width: 675px) {
      .contenedor-lucho1 {
          height: 150vh;
      }
 }
 
-@media (min-width: 1300px) {
+@media (min-width: 700px) {
      .contenedor-lucho1 {
          height: 140vh;
      }
 }
 
-@media (min-width: 1373px) {
-    .contenedor-lucho1 {
-        height: 140vh;
-    }
-     
-}
+/** Medidas especificas **/
+
 
 
 
